@@ -6,7 +6,6 @@ public class Demo9 {
 		e.setId(1);
 		e.setName("Payal");
 		e.setAge(4/0);
-		
 	}
 }
 
